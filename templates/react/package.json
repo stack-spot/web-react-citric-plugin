@@ -1,0 +1,9 @@
+{
+  "scripts": {
+  },
+  "dependencies": {
+    "citric": "^5.0.0"
+  },
+  "devDependencies": {},
+  "lint-staged": {}
+}

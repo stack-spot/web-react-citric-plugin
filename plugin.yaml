@@ -1,0 +1,8 @@
+name: citric
+description: Add Citric library for React Stack
+types:
+  - app
+tags:
+  - "orange-stackfront-web-scaffold"
+  - "orange-stackfront-web-shell-scaffold"
+  - "orange-stackfront-web-citric-plugin"
