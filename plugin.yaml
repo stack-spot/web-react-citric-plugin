@@ -39,6 +39,6 @@ useCase: useCase.md
 implementation: implementation.md
 
 # tecnologies que o plugin utiliza
-# A lista completa das tecnologias disponiveis que podem ser cadastradas estao disponiveis na Documentacao
+# A lista completa das tecnologias que podem ser cadastradas estão disponiveis na Documentação
 technologies: [ "ReactJS", "NextJS" ]
 
