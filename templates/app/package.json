@@ -1,8 +1,9 @@
 {
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
-    "citric": "^5.0.0"
+    "@citric/core": "0.0.16",
+    "@citric/icons": "^1.0.0-beta.3",
+    "@citric/theme-types": "^1.2.1"
   },
   "devDependencies": {},
   "lint-staged": {}

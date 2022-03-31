@@ -1,18 +1,14 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Citric from 'citric'
+import { ThemeProvider } from '@citric/core'
 
-import { GlobalStyle } from './core/styles/global'
 import App from './App'
 
 ReactDOM.render(
   <>
-    <GlobalStyle />
-
-    <Citric>
+    <ThemeProvider>
       <App />
-    </Citric>
-
+    </ThemeProvider>
   </>,
   document.getElementById('root')
 )
