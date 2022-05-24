@@ -15,7 +15,7 @@ displayName: Citric
 # caso a picture esteja fora do repo colocar uma url externa
 # Categorias disponíveis:
 # [sre, frontend, backend, fullStack, analytics]
-picture: "https://citric.design/static/media/citric.b3f6e642.svg"
+picture: "logo.svg"
 
 # Especificar a categoria da stack.
 # Plugin podem perceber a qualquer category
