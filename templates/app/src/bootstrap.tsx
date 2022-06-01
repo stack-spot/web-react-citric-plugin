@@ -6,6 +6,8 @@ import App from './App'
 
 ReactDOM.render(
   <>
+    <GlobalStyle />
+
     <ThemeProvider>
       <App />
     </ThemeProvider>
