@@ -1,7 +1,7 @@
 #### Instalação
 Para utilizar o Plugin **Citric**, siga os passos abaixo:
 
-**Passo 1.** Na pasta da aplicação react criada com o **`STK CLI`**, abra o terminal e execute o comando abaixo para adicionar o Plugin do Citric:
+**Passo 1.** Na pasta da aplicação React criada com o **`STK CLI`**, abra o terminal e execute o comando abaixo para adicionar o Plugin do Citric:  
 
 ```bash
 stk apply plugin uxservices-web-react/citric
@@ -13,4 +13,4 @@ stk apply plugin uxservices-web-react/citric
 npm install
 ```
 
-Para conhecer mais sobre o Citric Design System acesse [**Citric**](https://citric.stackspot.com/).
+Para conhecer mais sobre o Citric Design System acesse [**este site**](https://citric.stackspot.com/).
